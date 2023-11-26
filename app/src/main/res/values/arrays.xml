@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="emails">
+        <item>denvill104@gmail.com</item>
+        <item>person1@gmail.com</item>
+        <item>person2@gmail.com</item>
+        <item>person3@gmail.com</item>
+        <item>person4@gmail.com</item>
+    </array>
+
+    <array name="password">
+        <item>denvill104</item>
+        <item>person1</item>
+        <item>person2</item>
+        <item>person3</item>
+        <item>person4</item>
+    </array>
+</resources>
